@@ -1,0 +1,20 @@
+{
+    "name": "ratchet/pawl"
+  , "description": "Asynchronous WebSocket client"
+  , "keywords": ["WebSocket", "client", "Ratchet", "async", "websocket client"]
+  , "license": "MIT"
+  , "autoload": {
+        "psr-4": {
+            "Ratchet\\Client\\": "src"
+        }
+      , "files": ["src/functions_include.php"]
+    }
+  , "require": {
+        "php": ">=5.4"
+      , "react/socket-client": "^0.5"
+      , "ratchet/rfc6455": "^0.2.1"
+    }
+  , "suggest": {
+        "reactivex/rxphp": "~1.1"
+    }
+}
