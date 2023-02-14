@@ -1,0 +1,8 @@
+
+Môn: phát triên phần mềm hướng dịch vụ
+Thầy: huỳnh trung trụ
+Email: truht@ptithcm.edu.vn
+Chuyên cần: 10%
+Giữa kì: 20% | thi giấy liên quan tới XML và JSON | chương 2 & 3
+Cuối kì: 70% | đồ án
+Đồ án phải làm trên 2 nền tảng 

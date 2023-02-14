@@ -11,6 +11,7 @@
 - [**Table Of Content**](#table-of-content)
 - [**Introduction**](#introduction)
 - [**Video**](#video)
+- [**Mid-term Test**](#mid-term-test)
 - [**Features**](#features)
 - [**Post Script**](#post-script)
 - [**Timeline**](#timeline)
@@ -18,7 +19,7 @@
   - [**Phase 2: 28-01-2022 to 15-02-2022**](#phase-2-28-01-2022-to-15-02-2022)
   - [**Phase 3: 16-02-2022 to 28-02-2022**](#phase-3-16-02-2022-to-28-02-2022)
 - [**Our Team**](#our-team)
-- [**Made with 💘 and PHP <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" width="60">**](#made-with--and-php-)
+- [**Made with 💘 and PHP **](#made-with--and-php-)
 
 # [**Introduction**](#introduction)
 
@@ -47,6 +48,31 @@ Website này là một thành phần để hoàn thiện đồ án môn học Ph
 
 ***Xem video giới thiệu đồ án của mình luôn nè💥***
 </h3>
+
+# [**Mid-term Test**](#mid-term-test)
+
+Nếu các bạn coi video phía trên thì có thể coi là đã coi hết tất cả các nội dung quan trọng nhất rùi😘😘. 
+Tuy nhiên, trước khi được làm đồ án này thì các bạn sẽ phải vượt qua được bài kiểm tra giữa kì của môn này đã. Phần này mình sẽ 
+kể nhanh một số điều các bạn cần biết thui nha.
+
+Đại khái thì các bạn sẽ có một bài kiểm tra giữa kì sẽ kéo dài trong một tiếng đồng hồ. Sẽ có 2 đề chẵn lẻ khác nhau 
+nhưng chỉ đơn thuần là đổi số liệu thôi chứ cấu trúc thì như nhau.
+
+Bài kiểm tra gồm có 2 bài:
+
+1. Một bài kiểm tra ngữ pháp XML(giờ học xong chữ thầy trả thầy mất rồi😪😯)
+
+2. Một bài kiểm tra đặc tả cấu trúc dựa theo một sơ đồ cho sẵn
+
+Đại khái thì thầy Trụ khá là dễ tính. Coi thi cũng không quá gắt. Thậm chí có đứa vắng buổi thi chính thức thầy vẫn tạo điều 
+kiện cho các bạn thi lại ở buổi học sau(Dĩ nhiên là đề khác rồi nha😅). 
+
+Điểm số thì cũng khá là xông xênh. Đại loại là nếu làm bài cần thận, trình bày đẹp thì auto 8 điểm trở lên.
+
+Trong repository này, khi tải về các bạn sẽ thầy thư mục `document`. Thư mục này sẽ chứa đề bài và phần lời giải chính xác của mình.
+Đề thi giữa kì sẽ giống y xì như đề ôn tập trong tài liệu này, khác mỗi số liệu thôi. Nên không cần quá lo lắng đâu.
+
+Tới đây thì hết òy🥱🥱. Không còn gì đang lưu tâm nữa đâu. Xem tiếp mấy tính năng bên dưới của tớ tiếp nha.😛😛
 
 # [**Features**](#features)
 
